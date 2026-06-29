@@ -67,6 +67,7 @@ const EvadeSection = () => {
   className="absolute -bottom-2 -right-0  text-4xl sm:text-5xl select-none tracking-tighter"
   style={{
     color: 'transparent',
+    
     WebkitTextStroke: '1px rgba(59,130,246,0.4)',
   }}
 >
